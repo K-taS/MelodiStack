@@ -1,7 +1,7 @@
 /*
 ################################################################################
 ## BY: K-taS
-## PROJECT NAME : STACK-TONE
+## PROJECT NAME : MelodiStack
 ## PROJECT MADE WITH: M5Stack, M5Unified and M5Stack-Avatar
 ## V: 1.0.0
 ################################################################################
